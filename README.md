@@ -399,7 +399,6 @@ students.forEach(function(student) {
 
 **easy method to understand :-----
 **
-I'll break this into clear, beginner-friendly lessons one topic at a time. Let's start with the foundation!
 
 ---
 
